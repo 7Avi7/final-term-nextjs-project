@@ -1,0 +1,19 @@
+
+.imgStyle{
+    /* @apply bg-gradient-to-r from-blue-500 to-indigo-500 rounded-l-md; */
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.diceImg{
+    background: url('https://media.istockphoto.com/id/1133694166/es/vector/campo-de-f%C3%BAtbol-de-campeonato-de-ni%C3%B1os-planos-de-vectores.jpg?s=612x612&w=is&k=20&c=iQX26B5cEny8q8yzc7Rwe3l4LmPi4EUiB_BVA5B1wK4=')no-repeat ;
+    /* position: absolute; */
+    /* bottom: 0;left: 0;right: 0;top: 0; */
+    width: 100%;
+    height: 100%;
+    /* background-size: cover; */
+    /* background-position: 65% 100px; */
+    /* z-index: 1; */
+    /* margin-bottom: 100px; */
+    /* right: 1px; */
+}
